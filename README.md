@@ -44,7 +44,9 @@ Every component of the architecture is defined as a typed mathematical operator,
 ## Files
 
 - [`Recursive-Consciousness.pdf`](./A_Formal_Model_of_Recursive_Consciousness_Through_Perceptual_Abstraction_and_Predictive_Memory_Reconstruction.pdf)) – Full paper (31 pages)
-- [`https://www.overleaf.com/read/sjrkmytshxkf#174058`](./main.tex) – LaTeX source 
+- [` Formal Model of Recursive Consciousness Through
+Perceptual Abstraction and Predictive Memory
+Reconstruction`](.[(https://www.overleaf.com/read/sjrkmytshxkf#174058)) – LaTeX source 
 - [Link to arXiv (pending)](https://arxiv.org/) – Will be updated once submission is accepted
 
 ---
