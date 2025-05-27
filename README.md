@@ -6,6 +6,10 @@
 
 ---
 
+S(t) → M(t) → A(t) → C(t)
+         ↑       ↓
+        R     Φ, Σ, T
+
 ## Overview
 
 This paper presents a fully formalized cognitive architecture designed to model recursive consciousness from a minimal substrate. It includes mathematically defined mechanisms for:
